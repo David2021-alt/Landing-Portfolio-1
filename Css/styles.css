@@ -1,0 +1,24 @@
+h1 {
+    color: crimson;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    background-color: rgb(120, 241, 20);
+    font-size: 4vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: space-between;
+    background-image: (image());
+    font-color: yellow;
+
+}
+
+image {
+    margin-top: 0%;
+    height: 128px;
+    width: 128px;
+}
+p {
+    font-color: white;
+}

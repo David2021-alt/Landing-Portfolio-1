@@ -29,5 +29,9 @@ h1 {
 }
 .about {
     text-align: center;
-    background-color: darkgrey;
+    background-color: white;
+    color: red;
+}
+.ul {
+    text-align: center;
 }

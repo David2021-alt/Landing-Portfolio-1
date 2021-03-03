@@ -22,3 +22,12 @@ image {
 p {
     font-color: white;
 }
+h1 {
+    text-align: center;
+    color: crimson;
+    background-color: darkgray;
+}
+.about {
+    text-align: center;
+    background-color: darkgrey;
+}
